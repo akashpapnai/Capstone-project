@@ -1,5 +1,5 @@
-# Capstone project on Image Classification
-This is my capstone project based on image classification.
+# Project Title
+Fire Detection Using Surveillance Camera on Roads
 ## About
 ### <hr><b>Context</b>
 The dataset will be used in order to train the model to detect whether an image contains fire or not. The title of the research paper is "Detection of fire using surveillance camera footage".
